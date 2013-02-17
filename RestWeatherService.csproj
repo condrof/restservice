@@ -55,7 +55,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="RestWeatherService.svc" />
+    <Content Include="BookService.svc" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -70,11 +70,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Book.edmx</DependentUpon>
     </Compile>
-    <Compile Include="DataContracts\WeatherInfo.cs" />
-    <Compile Include="RestWeatherService.svc.cs">
-      <DependentUpon>RestWeatherService.svc</DependentUpon>
+    <Compile Include="DataContracts\BookInfo.cs" />
+    <Compile Include="BookService.svc.cs">
+      <DependentUpon>BookService.svc</DependentUpon>
     </Compile>
-    <Compile Include="IRestWeatherService.cs" />
+    <Compile Include="IBookService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
