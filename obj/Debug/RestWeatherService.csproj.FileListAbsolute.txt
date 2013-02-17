@@ -1,0 +1,8 @@
+C:\_ITDublin\2_WebServices\class3_RestService\RestWeatherService\WeatherService\bin\WeatherService.dll
+C:\_ITDublin\2_WebServices\class3_RestService\RestWeatherService\WeatherService\bin\WeatherService.pdb
+C:\_ITDublin\2_WebServices\class3_RestService\RestWeatherService\WeatherService\obj\Debug\WeatherService.dll
+C:\_ITDublin\2_WebServices\class3_RestService\RestWeatherService\WeatherService\obj\Debug\WeatherService.pdb
+C:\Users\Fergal\Desktop\class3_RestService\RestWeatherService\WeatherService\bin\WeatherService.dll
+C:\Users\Fergal\Desktop\class3_RestService\RestWeatherService\WeatherService\bin\WeatherService.pdb
+C:\Users\Fergal\Desktop\class3_RestService\RestWeatherService\WeatherService\obj\Debug\WeatherService.dll
+C:\Users\Fergal\Desktop\class3_RestService\RestWeatherService\WeatherService\obj\Debug\WeatherService.pdb

@@ -1,0 +1,8 @@
+C:\_ITDublin\2_WebServices\Automatic\WeatherService\WeatherService\bin\WeatherService.dll
+C:\_ITDublin\2_WebServices\Automatic\WeatherService\WeatherService\bin\WeatherService.pdb
+C:\_ITDublin\2_WebServices\Automatic\WeatherService\WeatherService\obj\Debug\WeatherService.dll
+C:\_ITDublin\2_WebServices\Automatic\WeatherService\WeatherService\obj\Debug\WeatherService.pdb
+C:\_ITDublin\2_WebServices\class3_RestService\WeatherService\WeatherService\bin\WeatherService.dll
+C:\_ITDublin\2_WebServices\class3_RestService\WeatherService\WeatherService\bin\WeatherService.pdb
+C:\_ITDublin\2_WebServices\class3_RestService\WeatherService\WeatherService\obj\Debug\WeatherService.dll
+C:\_ITDublin\2_WebServices\class3_RestService\WeatherService\WeatherService\obj\Debug\WeatherService.pdb
